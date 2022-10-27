@@ -1,4 +1,4 @@
-# 01-KONFIGURACJA-MIKROKONTROLERA
+# 01-KONFIGURACJA-MIKROKONTROLERA-BIBLIOTEKA
 
 Plik nagłówkowy DeviceConfig.h zawiera konfiguracje fusebitów oraz funkcję Set_MaxSpeed_Mode(). Fusebity konfigurują
 mikrokontroler PIC32MK1024MCM064 do pracy z największą możliwą częstotliwością (120MHz) używając wewnętrznego generatora 8MHz
